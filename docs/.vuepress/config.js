@@ -26,7 +26,7 @@ module.exports = {
     nav: [
       { text: '主页', link: '/' },
       { text: '随笔', link: '/diary/' },
-      { text: '笔记', link: '/web-note/' },
+      { text: '笔记', link: '/note/' },
       // 下拉列表的配置
       {
         text: 'hahaha',
@@ -46,13 +46,15 @@ module.exports = {
 		      ]
 		    }
 		  ],
-      "/web-note/": [
+      "/note/": [
 		    {
-		      title: 'web-note',
+		      title: 'note',
 		      collapsable: false,
 		      children: [
 		        '',
 		        'markdown',
+		        'vuepress-io',
+		        'git-ssh',
 		      ]
 		    }
 		  ],

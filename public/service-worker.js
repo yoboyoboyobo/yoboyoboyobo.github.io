@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "89ee1012b4fc61e0c72c5160e43ea6b2"
+    "revision": "89872647b5b45b751aef4c32129e56bb"
   },
   {
     "url": "assets/css/0.styles.1b1543a3.css",
@@ -72,40 +72,40 @@ self.__precacheManifest = [
     "revision": "7ec00e1aeb406245cb72b551f1f79326"
   },
   {
-    "url": "assets/js/app.2f978a2d.js",
-    "revision": "6c6761ece6f2705b5d7f50c0c201b7fc"
+    "url": "assets/js/app.d3a84e7f.js",
+    "revision": "36eaa7f18c52a0fb83208574b6689d52"
   },
   {
     "url": "daily/index.html",
-    "revision": "0b1fefe08c6be909ad413060d38da3f8"
+    "revision": "5bf4bd17537a34f629ce698067ef4ff5"
   },
   {
     "url": "diary/index.html",
-    "revision": "ba6553e2fb8b5306624962aead033f8a"
+    "revision": "d6b49f496f97413545e513b94b69b3f8"
   },
   {
     "url": "index.html",
-    "revision": "f8c2feea60b1db7d6fdabdc41597df1a"
+    "revision": "905b94419ead82c43caacfe9fecf8692"
   },
   {
     "url": "note/git-ssh.html",
-    "revision": "c3785ed495147893f5c0a48ce926d7c8"
+    "revision": "db61c8dbd8ff8bdf842ba2cf4d7c0e3a"
   },
   {
     "url": "note/index.html",
-    "revision": "674019420ca64a04f13c6b1ffa1cfdd4"
+    "revision": "36d0844670f1f32c33c07432f2a624f8"
   },
   {
     "url": "note/markdown.html",
-    "revision": "5e45cab9a140c55af38072d1efca6021"
+    "revision": "092cc62ff6fb73f1a66312603cb412ad"
   },
   {
     "url": "note/vuepress-io-guild.html",
-    "revision": "e1dd49b5fa593e03e5e35b4ad5dc9b4d"
+    "revision": "ae46c4c2ad8017f4db1ec574b4327633"
   },
   {
     "url": "zh/index.html",
-    "revision": "bfeb4355be163d0f69b8b8fb57ed2eb5"
+    "revision": "39dcc307907050bf7e74843e064e9b2f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

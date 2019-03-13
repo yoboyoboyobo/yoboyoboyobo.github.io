@@ -7,3 +7,5 @@ module.exports = {
     }
   ]
 }
+const fs = require('fs')
+console.error(fs)

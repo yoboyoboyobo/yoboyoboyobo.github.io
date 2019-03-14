@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "7ff8eed89fd59e9b80f872c8420f91a0"
+    "revision": "6400a537a67c29ca8093668aaf2943df"
   },
   {
     "url": "assets/css/0.styles.1b1543a3.css",
@@ -84,52 +84,52 @@ self.__precacheManifest = [
     "revision": "368c7420e58fe2ae7fe081123a665360"
   },
   {
-    "url": "assets/js/app.35f5a6fb.js",
-    "revision": "4c1c3d23baeb29e48f46800d5a6054b9"
+    "url": "assets/js/app.e823c831.js",
+    "revision": "c3e7c61b8a1c9b2f2c951b9f24b5dc81"
   },
   {
     "url": "daily/index.html",
-    "revision": "0e7a4008d9e49d945c4a26421fe582c7"
+    "revision": "4c1a31599728d0012bdd0d237126849e"
   },
   {
     "url": "diary/index.html",
-    "revision": "109dc4c2ad89ba3f5ee8933ce36274a3"
+    "revision": "39eb970161bcc6de453f30e6035e5ecd"
   },
   {
     "url": "index.html",
-    "revision": "06e0684061d1dc8c0fee2121b8cd1aa5"
+    "revision": "499994243d9ab8c1d9f86fb462aa94cc"
   },
   {
     "url": "note/code-review.html",
-    "revision": "579fab3ff25a1230782cf5c881aac80f"
+    "revision": "f5eb5652e661e0930037e4cb1c72713f"
   },
   {
     "url": "note/fe-sop.html",
-    "revision": "2916f0cf9e3084980754d20901e5ce0b"
+    "revision": "7196636927781447ec54e5b86bb4d349"
   },
   {
     "url": "note/git-ssh.html",
-    "revision": "d84e18d45b515f2e330535680debd885"
+    "revision": "88013d17ed2eff469e4082ebacc76de5"
   },
   {
     "url": "note/index.html",
-    "revision": "45492eb9647b58c99e8d70c0f21424f1"
+    "revision": "3df3de6546a12f4dbbb35c8a8a9ea2cc"
   },
   {
     "url": "note/markdown.html",
-    "revision": "9dec5c620f31f09565fead044948accf"
+    "revision": "736533f2844c3cea5274705a6be1dc2e"
   },
   {
     "url": "note/node.html",
-    "revision": "a006602e1d22c5eb56269b7911ecc8cf"
+    "revision": "5f40a18152f3c53255fd701a5358833a"
   },
   {
     "url": "note/vuepress-io-guild.html",
-    "revision": "396a4d1ed46b680a959a024a5856d602"
+    "revision": "964edcd2cba2085a2cd98994bcfbda17"
   },
   {
     "url": "zh/index.html",
-    "revision": "1b24e23236f9e6a76934df937fd0d487"
+    "revision": "17f877483ae66f54f07c8005010f5272"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

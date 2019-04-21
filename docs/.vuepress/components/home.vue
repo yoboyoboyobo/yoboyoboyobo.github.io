@@ -1,7 +1,7 @@
 <template>
   <div class="theme-container">
     hahahahha
-   <div class="theme-container-header">lalalla</div>
+   <div class="theme-container-header">lalas</div>
   </div>
 </template>
 
